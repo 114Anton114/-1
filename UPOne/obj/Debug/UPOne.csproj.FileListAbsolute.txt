@@ -1,0 +1,8 @@
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\UPOne.csproj.AssemblyReference.cache
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\UPOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\MnogPage\Admin\PageAdmin.g.cs
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\MnogPage\Main\PageLogin.g.cs
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\MnogPage\User\PageUser.g.cs
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\App.g.cs
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\UPOne_MarkupCompile.cache
+C:\Users\bonda_eufed5z\OneDrive\Рабочий стол\120k min\Задания\WorldSkills\UPOne\UPOne\obj\Debug\UPOne_MarkupCompile.lref
